@@ -1,0 +1,24 @@
+- Header 
+    -- ham-menu
+    -- yt icon(image)
+    --search div
+        -- search input
+        -- search btn
+    -- User logo (react -icons)
+
+
+
+
+
+- Body 
+    - sidebar
+        --ul 
+    - buttonList
+        --buttons
+   - VideoContainer
+        -- Video card
+            --VideoImage
+            --info
+
+
+
